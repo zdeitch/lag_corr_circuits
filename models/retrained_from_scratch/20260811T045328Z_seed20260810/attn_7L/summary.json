@@ -1,0 +1,23 @@
+{
+  "best_held_interior_mean_correlation": 0.9975853718909894,
+  "best_step": 290000,
+  "completed_utc": "2026-08-11T12:40:33.979804+00:00",
+  "elapsed_seconds": 8400.70299999998,
+  "final_metrics": {
+    "held_high": {
+      "mean_correlation": 0.9870659434197471,
+      "mean_masked_mse": 0.21015861630439758
+    },
+    "held_interior": {
+      "mean_correlation": 0.9969308662585626,
+      "mean_masked_mse": 0.19508738815784454
+    },
+    "train": {
+      "mean_correlation": 0.997883046512848,
+      "mean_masked_mse": 0.19340099394321442
+    }
+  },
+  "model_name": "attn_7L",
+  "parameter_count": 114881,
+  "steps_completed": 300000
+}

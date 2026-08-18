@@ -1,0 +1,23 @@
+{
+  "best_held_interior_mean_correlation": 0.6866736155168223,
+  "best_step": 250000,
+  "completed_utc": "2026-08-11T06:30:34.798757+00:00",
+  "elapsed_seconds": 5822.4529999999795,
+  "final_metrics": {
+    "held_high": {
+      "mean_correlation": 0.2083829912119276,
+      "mean_masked_mse": 1.0812076330184937
+    },
+    "held_interior": {
+      "mean_correlation": 0.6800721586577486,
+      "mean_masked_mse": 0.6264902949333191
+    },
+    "train": {
+      "mean_correlation": 0.7291533257348896,
+      "mean_masked_mse": 0.5703891515731812
+    }
+  },
+  "model_name": "attn_4L",
+  "parameter_count": 65729,
+  "steps_completed": 300000
+}

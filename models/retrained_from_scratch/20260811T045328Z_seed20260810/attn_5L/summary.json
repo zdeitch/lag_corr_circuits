@@ -1,0 +1,23 @@
+{
+  "best_held_interior_mean_correlation": 0.9824801407024092,
+  "best_step": 230000,
+  "completed_utc": "2026-08-11T08:17:37.743119+00:00",
+  "elapsed_seconds": 6421.984999999986,
+  "final_metrics": {
+    "held_high": {
+      "mean_correlation": 0.8109262963278452,
+      "mean_masked_mse": 0.47028666734695435
+    },
+    "held_interior": {
+      "mean_correlation": 0.9798891282640665,
+      "mean_masked_mse": 0.2225930243730545
+    },
+    "train": {
+      "mean_correlation": 0.9802282506130535,
+      "mean_masked_mse": 0.22232577204704285
+    }
+  },
+  "model_name": "attn_5L",
+  "parameter_count": 82113,
+  "steps_completed": 300000
+}

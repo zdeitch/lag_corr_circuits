@@ -1,0 +1,23 @@
+{
+  "best_held_interior_mean_correlation": 0.9804819391535183,
+  "best_step": 300000,
+  "completed_utc": "2026-08-11T14:38:07.639971+00:00",
+  "elapsed_seconds": 7053.125,
+  "final_metrics": {
+    "held_high": {
+      "mean_correlation": 0.9034821531795428,
+      "mean_masked_mse": 0.3396276831626892
+    },
+    "held_interior": {
+      "mean_correlation": 0.9804819391535183,
+      "mean_masked_mse": 0.22117964923381805
+    },
+    "train": {
+      "mean_correlation": 0.9849079474277938,
+      "mean_masked_mse": 0.21455733478069305
+    }
+  },
+  "model_name": "mlp_4L",
+  "parameter_count": 198081,
+  "steps_completed": 300000
+}
